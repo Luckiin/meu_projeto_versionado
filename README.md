@@ -1,2 +1,2 @@
 # meu_projeto_versionado
-Teste
+Aprendendo a usar o git
